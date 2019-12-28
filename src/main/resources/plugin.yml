@@ -1,0 +1,12 @@
+name: UnioEvents
+main: me.uniodex.unioevents.UnioEvents
+author: 'UnioDex'
+version: 1.0
+
+softdepend: [Multiverse-Core]
+
+commands:
+  parkur:
+    description: parkur
+  esyabulma:
+    description: esyabulma
